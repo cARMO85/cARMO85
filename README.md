@@ -4,7 +4,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Data Analyst | SQL, R, Excel, Tableau | Simplifying complex data to drive business insights and decision-making.
 --------------------------------------------
 
-As an Irish man currently living in Denmark, I bring a unique blend of global perspective and cultural awareness to my work as a Data Analyst. With over 12 years of experience in a professional environment, I have honed my analytical, communication, and problem-solving skills to help companies make informed and strategic decisions based on data insights. In addition to my professional experience, I have also completed high-quality leadership training and developed a keen eye for identifying and resolving problems. Furthermore, I am proficient in English and Danish, enabling me to communicate effectively with colleagues and clients from diverse backgrounds.
+As an Irish man currently living in Denmark, I bring a unique blend of global perspective and cultural awareness to my work as a Data Analyst. 
+As a data analyst with 12 years of experience working professioanlly, I specialize in simplifying complex data and using tools like SQL, R, Excel, and Tableau to drive business insights and informed decision-making. My projects have included footabll data explorations to dashbaorda bout Coca Cola sales and a few other places in between.
+
+Looking to connect with like-minded professionals and explore new opportunities. You can reach me at [your email or contact details]. I'm always open to discussing exciting new projects and ideas.
 
 * 🌍  I'm based in Denmark
 * 🖥️  See my portfolio at [https://paulcarmody.carrd.co](http://https://www.linkedin.com/in/carmodypaul/)
