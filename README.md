@@ -6,9 +6,9 @@ Simplifying complex data to drive business insights and decision-making.
 --------------------------------------------
 
 As an Irish man currently living in Denmark, I bring a unique blend of global perspective and cultural awareness to my work as a Data Analyst. 
-As a data analyst with 12 years of experience working professioanlly, I specialize in simplifying complex data and using tools like SQL, R, Excel, and Tableau to drive business insights and informed decision-making. My projects have included footabll data explorations to dashbaorda bout Coca Cola sales and a few other places in between.
+With 12 years of experience working professioanlly, I specialize in simplifying complex data and using tools like SQL, R, Excel, Power BI and Tableau to drive business insights and informed decision-making. My projects have included footabll data explorations to dashboards about Coca Cola sales and a few other places in between.
 
-Looking to connect with like-minded professionals and explore new opportunities. You can reach me at [your email or contact details]. I'm always open to discussing exciting new projects and ideas.
+Looking to connect with like-minded professionals and explore new opportunities. You can reach me at paul.a.e.carmody@gmail.com. I'm always open to discussing exciting new projects and ideas.
 
 * 🌍  I'm based in Denmark
 * 🖥️  See my portfolio at [https://paulcarmody.carrd.co](http://https://www.linkedin.com/in/carmodypaul/)
