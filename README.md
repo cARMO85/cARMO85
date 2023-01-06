@@ -1,7 +1,8 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Paul Carmody
 ====================================================================================================================================
 
-Data Analyst | SQL, R, Excel, Tableau | Simplifying complex data to drive business insights and decision-making.
+Data Analyst | SQL, R, Excel, Tableau |
+Simplifying complex data to drive business insights and decision-making.
 --------------------------------------------
 
 As an Irish man currently living in Denmark, I bring a unique blend of global perspective and cultural awareness to my work as a Data Analyst. 
