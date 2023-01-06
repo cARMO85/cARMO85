@@ -28,10 +28,6 @@ As an Irish man currently living in Denmark, I bring a unique blend of global pe
 
 ### Badges
 
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/cArmo85/https://github.com/cARMO85/BellaBeat" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=cArmo85&repo=https://github.com/cARMO85/BellaBeat&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/cArmo85/https://github.com/cARMO85/BikeShare" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=cArmo85&repo=https://github.com/cARMO85/BikeShare&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
 <br /><br /><br /><br /><br />
 
 <div width="100%" align="center"><a href="https://github.com/cArmo85/https://github.com/cARMO85/International_Football" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=cArmo85&repo=https://github.com/cARMO85/International_Football&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
