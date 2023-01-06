@@ -10,7 +10,7 @@ As an Irish man currently living in Denmark, I bring a unique blend of global pe
 * 🖥️  See my portfolio at [https://paulcarmody.carrd.co](http://https://www.linkedin.com/in/carmodypaul/)
 * ✉️  You can contact me at [paul.a.e.carmody@gmail.com](mailto:paul.a.e.carmody@gmail.com)
 * 🧠  I'm learning Python
-* 🤝  I'm open to collaborating on Other Data nerds
+* 🤝  I'm open to collaborating on data explorations with other Data nerds
 * ⚡  I was a teacher for 12 years and worked all over the world. I built my own electric guitar from scratch. I live on a tiny wet island in the middle of the Baltic Sea
 
 ### Skills
