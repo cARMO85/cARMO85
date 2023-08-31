@@ -1,21 +1,21 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Paul Carmody
 ====================================================================================================================================
 
-Data Analyst | SQL, R, Excel, Tableau |
+Data Analyst | SQL, Python, R, PowerBI, Tableau |
 Simplifying complex data to drive business insights and decision-making.
 --------------------------------------------
 
 As an Irish man currently living in Denmark, I bring a unique blend of global perspective and cultural awareness to my work as a Data Analyst. 
-With 12 years of experience working professioanlly, I specialize in simplifying complex data and using tools like SQL, R, Excel, Power BI and Tableau to drive business insights and informed decision-making. My projects have included footabll data explorations to dashboards about Coca Cola sales and a few other places in between.
+With 12 years of experience working professionally, I specialize in simplifying complex data and using tools like SQL, R, Excel, Power BI and Tableau to drive business insights and informed decision-making. My projects have included ML models, data analysis projects and interactive dashboards.
 
 Looking to connect with like-minded professionals and explore new opportunities. You can reach me at paul.a.e.carmody@gmail.com. I'm always open to discussing exciting new projects and ideas.
 
 * 🌍  I'm based in Denmark
-* 🖥️  See my portfolio at [https://paulcarmody.carrd.co](http://https://www.linkedin.com/in/carmodypaul/)
+* 🖥️  See my portfolio at [here]([http://https://www.linkedin.com/in/carmodypaul/](https://www.mavenanalytics.io/profile/Paul-Carmody/103249545))
 * ✉️  You can contact me at [paul.a.e.carmody@gmail.com](mailto:paul.a.e.carmody@gmail.com)
-* 🧠  I'm learning Python
+* 🧠  I'm learning Linear algebra
 * 🤝  I'm open to collaborating on data explorations with other Data nerds
-* ⚡  I was a teacher for 12 years and worked all over the world. I built my own electric guitar from scratch. I live on a tiny wet island in the middle of the Baltic Sea
+* ⚡  I was a teacher for 12 years and worked worldwide. I built my own electric guitar from scratch. I live on a tiny wet island in the middle of the Baltic Sea
 
 ### Skills
 
