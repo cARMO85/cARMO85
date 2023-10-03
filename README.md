@@ -11,7 +11,7 @@ With 12 years of experience working professionally, I specialize in simplifying 
 Looking to connect with like-minded professionals and explore new opportunities. You can reach me at paul.a.e.carmody@gmail.com. I'm always open to discussing exciting new projects and ideas.
 
 * 🌍  I'm based in Denmark
-* 🖥️  See my portfolio at [here](https://www.mavenanalytics.io/profile/Paul-Carmody/103249545))
+* 🖥️  See my portfolio at [here](https://www.mavenanalytics.io/profile/Paul-Carmody/103249545)
 * ✉️  You can contact me at [paul.a.e.carmody@gmail.com](mailto:paul.a.e.carmody@gmail.com)
 * 🧠  I'm learning Linear algebra
 * 🤝  I'm open to collaborating on data explorations with other Data nerds
@@ -30,5 +30,8 @@ Looking to connect with like-minded professionals and explore new opportunities.
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/cArmo85" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/carmodypaul/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
-
+<p align="left">
+<a href="https://www.github.com/cArmo85" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" /></a>
+<a href="https://www.linkedin.com/in/carmodypaul/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" /></a>
+<a href="https://www.mavenanalytics.io/profile/Paul-Carmody/103249545" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/website.svg" width="32" height="32" alt="Portfolio" /></a>
+</p>
